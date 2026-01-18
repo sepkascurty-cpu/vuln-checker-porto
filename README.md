@@ -1,4 +1,4 @@
-# 🛠️ PX-SUITE v1.5
+# 🛠️ PX-SUITE v1.6
 **Professional Cybersecurity Reconnaissance Toolkit**
 
 PX-SUITE adalah sebuah toolkit keamanan siber berbasis Python yang dirancang untuk membantu dalam fase **Information Gathering** dan **Vulnerability Assessment**. Tool ini menggabungkan berbagai fungsi pemindaian jaringan dan web ke dalam satu antarmuka terminal yang interaktif.
